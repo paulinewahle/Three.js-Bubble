@@ -4,7 +4,7 @@ import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
 import * as dat from 'dat.gui'
 import {RGBELoader} from 'three/examples/jsm/loaders/RGBELoader.js';
 
-const hdrTextureURL = new URL('img/forest.hdr', import.meta.url);
+const hdrTextureURL = new URL('img/Milkyway_small.hdr', import.meta.url);
 
 
 // Debug
