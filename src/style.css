@@ -1,0 +1,27 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    height: 100vh;
+    /*background-image: url('img/clouds1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;*/
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+h1{
+    font-family: didot;
+    color: black;
+    font-size: 50px;
+}
